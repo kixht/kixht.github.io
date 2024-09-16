@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://kixht.github.io/sitemap/sitemap.txt
